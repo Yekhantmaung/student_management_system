@@ -3,4 +3,4 @@ git clone [https://github.com/Yekhantmaung/student_management_system](https://gi
 cd student_management_system
 
 
-python student_management_system.py
+python student_management.py
